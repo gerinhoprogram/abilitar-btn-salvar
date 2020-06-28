@@ -1,0 +1,15 @@
+.header {
+  background-color: #dddd;
+  border: 1px solid #000;
+  width: 70%;
+  text-align: center; }
+
+.divForm form {
+  width: 50%;
+  background-color: aqua; }
+.divForm input {
+  margin-top: 20px;
+  padding: 5px;
+  margin-bottom: 20px; }
+
+/*# sourceMappingURL=estilo.css.map */

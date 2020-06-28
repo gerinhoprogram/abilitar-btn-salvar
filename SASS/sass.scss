@@ -1,0 +1,24 @@
+$myColor: #dddd;
+$myBorder: 1px solid #000;
+$myWidth: 70%;
+$textAlign: center;
+
+.header{
+	background-color: $myColor;
+	border: $myBorder;
+	width: $myWidth;
+	text-align: $textAlign;
+}
+
+.divForm{
+	form{
+		width: 50%;
+		background-color: aqua;
+	}
+	input{
+		margin-top: 20px;
+		padding: 5px;
+		margin-bottom: 20px
+	}
+	
+}
